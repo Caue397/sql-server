@@ -1,4 +1,4 @@
--- AC3 SQL Server --
+-- Exercício SQL Server --
 select top 3 * from sales.orders
 select top 3 * from sales.customers
 select top 3 * from HR.Employees
